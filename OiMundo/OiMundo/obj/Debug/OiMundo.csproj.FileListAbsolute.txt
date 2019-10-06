@@ -1,0 +1,10 @@
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\OiMundo\OiMundo\bin\Debug\OiMundo.exe.config
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\OiMundo\OiMundo\bin\Debug\OiMundo.exe
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\OiMundo\OiMundo\bin\Debug\OiMundo.pdb
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\OiMundo\OiMundo\obj\Debug\OiMundo.csprojAssemblyReference.cache
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\OiMundo\OiMundo\obj\Debug\OiMundo.Form1.resources
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\OiMundo\OiMundo\obj\Debug\OiMundo.Properties.Resources.resources
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\OiMundo\OiMundo\obj\Debug\OiMundo.csproj.GenerateResource.cache
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\OiMundo\OiMundo\obj\Debug\OiMundo.csproj.CoreCompileInputs.cache
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\OiMundo\OiMundo\obj\Debug\OiMundo.exe
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\OiMundo\OiMundo\obj\Debug\OiMundo.pdb

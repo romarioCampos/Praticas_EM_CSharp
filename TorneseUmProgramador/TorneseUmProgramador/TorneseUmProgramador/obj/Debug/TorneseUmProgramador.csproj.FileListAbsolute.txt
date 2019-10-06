@@ -1,0 +1,7 @@
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TorneseUmProgramador\TorneseUmProgramador\TorneseUmProgramador\bin\Debug\TorneseUmProgramador.exe.config
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TorneseUmProgramador\TorneseUmProgramador\TorneseUmProgramador\bin\Debug\TorneseUmProgramador.exe
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TorneseUmProgramador\TorneseUmProgramador\TorneseUmProgramador\bin\Debug\TorneseUmProgramador.pdb
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TorneseUmProgramador\TorneseUmProgramador\TorneseUmProgramador\obj\Debug\TorneseUmProgramador.csprojAssemblyReference.cache
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TorneseUmProgramador\TorneseUmProgramador\TorneseUmProgramador\obj\Debug\TorneseUmProgramador.csproj.CoreCompileInputs.cache
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TorneseUmProgramador\TorneseUmProgramador\TorneseUmProgramador\obj\Debug\TorneseUmProgramador.exe
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TorneseUmProgramador\TorneseUmProgramador\TorneseUmProgramador\obj\Debug\TorneseUmProgramador.pdb

@@ -1,0 +1,10 @@
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\estruturasDeControle\estruturasDeControle\obj\Debug\estruturasDeControle.csprojAssemblyReference.cache
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\estruturasDeControle\estruturasDeControle\obj\Debug\estruturasDeControle.Form1.resources
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\estruturasDeControle\estruturasDeControle\obj\Debug\estruturasDeControle.Properties.Resources.resources
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\estruturasDeControle\estruturasDeControle\obj\Debug\estruturasDeControle.csproj.GenerateResource.cache
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\estruturasDeControle\estruturasDeControle\obj\Debug\estruturasDeControle.csproj.CoreCompileInputs.cache
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\estruturasDeControle\estruturasDeControle\bin\Debug\estruturasDeControle.exe.config
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\estruturasDeControle\estruturasDeControle\bin\Debug\estruturasDeControle.exe
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\estruturasDeControle\estruturasDeControle\bin\Debug\estruturasDeControle.pdb
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\estruturasDeControle\estruturasDeControle\obj\Debug\estruturasDeControle.exe
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\estruturasDeControle\estruturasDeControle\obj\Debug\estruturasDeControle.pdb

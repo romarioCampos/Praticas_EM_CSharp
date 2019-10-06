@@ -1,0 +1,9 @@
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\WebSite3\Teste\bin\Debug\Teste.exe.config
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\WebSite3\Teste\bin\Debug\Teste.exe
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\WebSite3\Teste\bin\Debug\Teste.pdb
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\WebSite3\Teste\obj\Debug\Teste.csprojAssemblyReference.cache
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\WebSite3\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\WebSite3\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\WebSite3\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\WebSite3\Teste\obj\Debug\Teste.exe
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\WebSite3\Teste\obj\Debug\Teste.pdb

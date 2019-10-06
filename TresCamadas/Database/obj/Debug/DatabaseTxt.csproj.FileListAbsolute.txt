@@ -1,0 +1,5 @@
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadas\Database\bin\Debug\Database.dll
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadas\Database\bin\Debug\Database.pdb
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadas\Database\obj\Debug\DatabaseTxt.csproj.CoreCompileInputs.cache
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadas\Database\obj\Debug\Database.dll
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadas\Database\obj\Debug\Database.pdb

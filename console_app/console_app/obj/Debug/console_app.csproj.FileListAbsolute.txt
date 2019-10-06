@@ -1,0 +1,10 @@
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\console_app\console_app\bin\Debug\console_app.exe.config
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\console_app\console_app\bin\Debug\console_app.exe
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\console_app\console_app\bin\Debug\console_app.pdb
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\console_app\console_app\obj\Debug\console_app.csprojAssemblyReference.cache
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\console_app\console_app\obj\Debug\console_app.csproj.CoreCompileInputs.cache
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\console_app\console_app\obj\Debug\console_app.exe
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\console_app\console_app\obj\Debug\console_app.pdb
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\console_app\console_app\bin\Debug\Componentes.dll
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\console_app\console_app\bin\Debug\Componentes.pdb
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\console_app\console_app\obj\Debug\console_app.csproj.CopyComplete

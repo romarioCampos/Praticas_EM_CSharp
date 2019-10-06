@@ -1,0 +1,7 @@
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\Exercicio03\DBMobiliaria\ConexaoDB\bin\Debug\ConexaoDB.exe.config
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\Exercicio03\DBMobiliaria\ConexaoDB\bin\Debug\ConexaoDB.exe
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\Exercicio03\DBMobiliaria\ConexaoDB\bin\Debug\ConexaoDB.pdb
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\Exercicio03\DBMobiliaria\ConexaoDB\obj\Debug\ConexaoDB.csprojAssemblyReference.cache
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\Exercicio03\DBMobiliaria\ConexaoDB\obj\Debug\ConexaoDB.csproj.CoreCompileInputs.cache
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\Exercicio03\DBMobiliaria\ConexaoDB\obj\Debug\ConexaoDB.exe
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\Exercicio03\DBMobiliaria\ConexaoDB\obj\Debug\ConexaoDB.pdb

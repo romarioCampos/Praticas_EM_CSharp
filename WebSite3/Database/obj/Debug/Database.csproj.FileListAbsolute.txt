@@ -1,0 +1,4 @@
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\WebSite3\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\WebSite3\Database\obj\Debug\Database.Properties.Resources.resources
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\WebSite3\Database\obj\Debug\Database.csproj.GenerateResource.cache
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\WebSite3\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache

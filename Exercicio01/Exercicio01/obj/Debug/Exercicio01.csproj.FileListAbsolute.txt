@@ -1,0 +1,2 @@
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csprojAssemblyReference.cache
+C:\Users\Romário Campos\Documents\Projetos\Csharp.NET\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache

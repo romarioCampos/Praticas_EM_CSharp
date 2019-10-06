@@ -1,0 +1,9 @@
+C:\Users\Romário Campos\Documents\Projetos\TresCamadasPersistentes\Business\bin\Debug\Business.dll
+C:\Users\Romário Campos\Documents\Projetos\TresCamadasPersistentes\Business\bin\Debug\Business.pdb
+C:\Users\Romário Campos\Documents\Projetos\TresCamadasPersistentes\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Romário Campos\Documents\Projetos\TresCamadasPersistentes\Business\obj\Debug\Business.dll
+C:\Users\Romário Campos\Documents\Projetos\TresCamadasPersistentes\Business\obj\Debug\Business.pdb
+C:\Users\Romário Campos\Documents\Projetos\TresCamadasPersistentes\Business\bin\Debug\Database.dll
+C:\Users\Romário Campos\Documents\Projetos\TresCamadasPersistentes\Business\bin\Debug\Database.pdb
+C:\Users\Romário Campos\Documents\Projetos\TresCamadasPersistentes\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\Romário Campos\Documents\Projetos\TresCamadasPersistentes\Business\obj\Debug\Business.csproj.CopyComplete

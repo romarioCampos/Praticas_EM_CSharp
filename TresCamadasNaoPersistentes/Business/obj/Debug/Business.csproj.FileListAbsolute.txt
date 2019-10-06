@@ -1,0 +1,11 @@
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadasNaoPersistentes\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadasNaoPersistentes\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadasNaoPersistentes\Business\bin\Debug\Business.dll
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadasNaoPersistentes\Business\bin\Debug\Business.pdb
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadasNaoPersistentes\Business\bin\Debug\BusinessModel.dll
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadasNaoPersistentes\Business\bin\Debug\Database.dll
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadasNaoPersistentes\Business\bin\Debug\BusinessModel.pdb
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadasNaoPersistentes\Business\bin\Debug\Database.pdb
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadasNaoPersistentes\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadasNaoPersistentes\Business\obj\Debug\Business.dll
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadasNaoPersistentes\Business\obj\Debug\Business.pdb

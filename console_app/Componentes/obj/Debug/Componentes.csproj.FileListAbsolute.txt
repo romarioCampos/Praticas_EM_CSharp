@@ -1,0 +1,6 @@
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\console_app\Componentes\bin\Debug\Componentes.dll
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\console_app\Componentes\bin\Debug\Componentes.pdb
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\console_app\Componentes\obj\Debug\Componentes.csprojAssemblyReference.cache
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\console_app\Componentes\obj\Debug\Componentes.csproj.CoreCompileInputs.cache
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\console_app\Componentes\obj\Debug\Componentes.dll
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\console_app\Componentes\obj\Debug\Componentes.pdb

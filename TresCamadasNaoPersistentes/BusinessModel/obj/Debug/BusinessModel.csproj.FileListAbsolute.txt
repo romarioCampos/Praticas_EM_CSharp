@@ -1,0 +1,6 @@
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadasNaoPersistentes\BusinessModel\bin\Debug\BusinessModel.dll
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadasNaoPersistentes\BusinessModel\bin\Debug\BusinessModel.pdb
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadasNaoPersistentes\BusinessModel\obj\Debug\BusinessModel.csprojAssemblyReference.cache
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadasNaoPersistentes\BusinessModel\obj\Debug\BusinessModel.csproj.CoreCompileInputs.cache
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadasNaoPersistentes\BusinessModel\obj\Debug\BusinessModel.dll
+C:\Users\Romário Campos\Documents\Projetos\C#;APSP.NET;DOTNET\TresCamadasNaoPersistentes\BusinessModel\obj\Debug\BusinessModel.pdb
